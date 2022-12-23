@@ -1,8 +1,6 @@
 
-#include <unistd.h>
 #include <stdio.h>
 #include <fcntl.h>
-#include <pthread.h>
 #include <string.h>
 
 char *shift(char arr1[10][10]){
